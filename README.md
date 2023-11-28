@@ -1,4 +1,4 @@
-# advent-of-code-2023
+# Advent of code 2023 🎄🧑‍💻
 
 Welcome to the Advent of Code[^aoc] Kotlin project created by [ezeferex][github] using the [Advent of Code Kotlin Template][template] delivered by JetBrains.
 
@@ -9,6 +9,10 @@ If you're stuck with Kotlin-specific questions or anything related to this templ
 - [Kotlin docs][docs]
 - [Kotlin Slack][slack]
 - Template [issue tracker][issues]
+
+## Message by day
+```
+```
 
 
 [^aoc]:
